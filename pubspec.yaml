@@ -6,12 +6,12 @@ repository: https://github.com/sarbagyastha/youtube_player_flutter
 homepage: https://sarbagyastha.com.np
 
 environment:
-  sdk: ">=2.5.0 <3.0.0"
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  webview_flutter: ">=0.3.15 <1.0.0"
+  webview_flutter: ^0.3.19+7
 
 dev_dependencies:
   flutter_test:
